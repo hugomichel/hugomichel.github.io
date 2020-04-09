@@ -44,7 +44,7 @@
 
 <!--Segunda division-->
  <div class="small-6 large-8 columns">
- 	<h2> Strategic goal: Having more users than Twitter</h2>
+ 	<h2> te amo esta bien facil usar esto/h2>
       <ul> 
         <li> Better mobile app, and letting the user to use more clients than Twitter.</li>
         <li> Videos can be watched inside the app, without opening the Youtube link </li>
